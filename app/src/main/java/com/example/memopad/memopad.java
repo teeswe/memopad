@@ -14,7 +14,7 @@ public class memopad {
 
     @Override
     public String toString() {
-        // Change this line to add the hashtag before the ID
+        // added the hashhtag
         return "#" + id + ": " + memo;
     }
 }
