@@ -1,4 +1,4 @@
-package com.example.memopad;
+package com.example.memopad.model;
 
 public class memopad {
     private final int id;
